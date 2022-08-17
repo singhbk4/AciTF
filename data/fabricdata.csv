@@ -1,0 +1,4 @@
+sno,vlp_pool,ph_domain,aep,vlp_from,vlp_to
+1,vlp-core,phd-core,,vlan-1,vlan-100
+2,vlp-dmz,phd-dmz,aep-dmz,vlan-101,vlan-200
+3,vlp-pci,phd-pci,,vlan-201,vlan-300

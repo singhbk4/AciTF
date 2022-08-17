@@ -1,0 +1,4 @@
+sno,name,type,link_level_policy,cdp_policy,lldp_policy,spanning_tree_policy,mcp_policy,l2_policy,storm_control_policy,port_channel_policy,port_channel_member_policy,aaep
+1,ipg-VPC-SRV01,vpc,10G,CDP-ON,LLDP-OFF,BPDU-GUARD,MCP-ON,PORT-LOCAL,10P,LACP,FAST,AAEP1
+2,ipg-VPC-SRV02,vpc,10G,CDP-ON,LLDP-OFF,BPDU-GUARD,MCP-ON,PORT-LOCAL,10P,LACP,FAST,AAEP1
+3,ipg-VPC-SRV03,vpc,10G,CDP-ON,LLDP-OFF,BPDU-GUARD,MCP-ON,PORT-LOCAL,10P,LACP,FAST,AAEP1

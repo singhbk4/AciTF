@@ -1,0 +1,11 @@
+sno,tenant,vrf,app_pr,epg,bd
+1,TEN01,vrf-core01,app_core01,epg_vlan10,bd_vlan10
+2,TEN01,vrf-core01,app_core01,epg_vlan20,bd_vlan20
+3,TEN01,vrf-core01,app_core01,epg_vlan30,bd_vlan30
+4,TEN01,vrf-core01,app_core01,epg_vlan40,bd_vlan40
+5,TEN01,vrf-core01,app_core01,epg_vlan50,bd_vlan50
+6,TEN01,vrf-core02,app_core02,epg_vlan60,bd_vlan60
+7,TEN01,vrf-core02,app_core02,epg_vlan70,bd_vlan70
+8,TEN01,vrf-core02,app_core02,epg_vlan80,bd_vlan80
+9,TEN01,vrf-core02,app_core02,epg_vlan90,bd_vlan90
+10,TEN01,vrf-core02,app_core02,epg_vlan100,bd_vlan100
