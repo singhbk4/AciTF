@@ -3,6 +3,7 @@ terraform {
   required_providers {
     aci = {
       source = "ciscodevnet/aci"
+      version = ">=2.5.2"
     }
   }
 # Backend: to store terraform.tfstate file in remote location 
@@ -25,4 +26,3 @@ provider "aci" {
   # url = "https://10.10.20.14" 
   insecure = true
 }
-
