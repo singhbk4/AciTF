@@ -5,6 +5,13 @@ terraform {
       source = "ciscodevnet/aci"
     }
   }
+# Backend: to store terraform.tfstate file in remote location 
+  # backend "azurerm" {
+  #   container_name = "value"
+  #   resource_group_name = "value"
+  #   storage_account_name = "value"
+  #   key = "value"    
+  # }
 }
 
 provider "aci" {
